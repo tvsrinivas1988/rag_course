@@ -1,0 +1,38 @@
+Title: Type 2 Diabetes Mellitus – Clinical Practice Guidelines (Excerpt)
+
+Overview:
+Type 2 diabetes mellitus (T2DM) is a chronic metabolic disorder characterized by insulin resistance and relative insulin deficiency. The goal of management is to achieve glycemic control, prevent complications, and improve quality of life.
+
+Diagnosis Criteria:
+- Fasting plasma glucose ≥ 126 mg/dL (7.0 mmol/L)
+- 2-hour plasma glucose ≥ 200 mg/dL (11.1 mmol/L) during oral glucose tolerance test
+- HbA1c ≥ 6.5%
+- In a patient with classic symptoms of hyperglycemia, a random plasma glucose ≥ 200 mg/dL (11.1 mmol/L)
+
+Treatment Goals:
+- Maintain HbA1c < 7% for most adults.
+- Individualize targets based on age, comorbidities, and risk of hypoglycemia.
+- Blood pressure goal: < 130/80 mmHg.
+- LDL cholesterol goal: < 100 mg/dL (<70 mg/dL in high-risk patients).
+
+Lifestyle Modifications:
+1. Encourage balanced diet emphasizing vegetables, whole grains, and lean protein.
+2. Limit added sugars and processed carbohydrates.
+3. Promote at least 150 minutes of moderate physical activity per week.
+4. Support weight loss of 5–10% for overweight individuals.
+
+Pharmacologic Therapy:
+- First-line: Metformin unless contraindicated.
+- Add-on agents based on comorbidities:
+  • ASCVD → consider SGLT2 inhibitor or GLP-1 receptor agonist.
+  • Heart failure → SGLT2 inhibitor preferred.
+  • CKD → SGLT2 inhibitor or GLP-1 receptor agonist with proven renal benefit.
+- Insulin therapy if HbA1c ≥ 10% or symptomatic hyperglycemia.
+
+Monitoring:
+- HbA1c every 3–6 months.
+- Annual screening for retinopathy, nephropathy, and neuropathy.
+- Foot examination at every visit.
+
+References:
+Adapted from ADA Standards of Medical Care in Diabetes – 2023 and WHO Guidelines for Diabetes Management.
